@@ -1,0 +1,15 @@
+.productImgContainer {
+    max-width: 400px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.loader {
+    font-size: 16px;
+}
+
+.productImg {
+    /* display: block;
+    width: 200px; */
+}
